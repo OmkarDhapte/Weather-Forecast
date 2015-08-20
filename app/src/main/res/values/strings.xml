@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weather_forecast">WeatherForecast</string>
+    <string name="title_activity_forecase_detail">ForecaseDetail</string>
+    <string name="title_activity_weather_detail">WeatherDetail</string>
+</resources>
